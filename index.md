@@ -1,6 +1,6 @@
 # Computing Systems: Endless Frontier
 
-A workshop for UESTC freshmen about some exciting topics of computing systems. Let's explore the endless frontier of engineering methodology, algorithm, data storage, computing system and computer architecture!
+This is a workshop for UESTC freshmen about some exciting topics of computing systems. Let's explore the endless frontier of engineering methodology, algorithm, data storage, computing system and computer architecture!
 
 This workshop contains 2 sections.
 
