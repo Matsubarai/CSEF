@@ -19,7 +19,7 @@ Email: qianyu.cheng.chn@gmail.com
 CSEF I:
 
 - MIT. [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
-- Swaroop, C. H. [A Byte of Python](https://python.swaroopch.com/). Gitbook
+- Swaroop, C. H. [A Byte of Python](https://python.swaroopch.com/). 2020.
 - Wes McKinney. Python for Data Analysis, 2nd Edition. O'Reilly, 2017.
 - Lakos, J. Large-Scale C++ Software Design. Addison-Wesley Professional, 1996.
 - Scholl, B. Cloud Native. O'Reilly, 2019.
