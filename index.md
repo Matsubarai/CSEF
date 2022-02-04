@@ -12,7 +12,10 @@ This workshop contains 2 sections.
 
 CSEF I:
 
-- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+- MIT. [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+- Wes McKinney. Python for Data Analysis, 2nd Edition. O'Reilly, 2017.
+- Lakos, J. Large-Scale C++ Software Design. Addison-Wesley Professional, 1996.
+- Scholl, B. Cloud Native. O'Reilly, 2019.
 
 ## Schedule
 
