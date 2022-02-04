@@ -16,12 +16,17 @@ CSEF I:
 
 ## Schedule
 
-CSEF I:
-
-| Date       | Topic                     | Content |
-| ---------- | ------------------------- | ------- |
-| ...        | Prerequisite              | [Install WSL](https://docs.microsoft.com/zh-cn/windows/wsl/install) |
-| Wed Jan 26 | Intro to Linux, scripting | slide   |
-| Fri Jan 28 | Shell scripting           | slide   |
-| ...        | Mid-term break            | [A Byte of Python](https://python.swaroopch.com/) |
+| Date            | Topic                                     | Content                                                      |
+| --------------- | ----------------------------------------- | ------------------------------------------------------------ |
+| Mon Jan 24      | Workshop Abstract                         | slides [Abstract](./slides/abstract.pdf)                     |
+| **Winter 2022** | **CSEF I**                                |                                                              |
+| ...             | Prerequisite                              | read [Install WSL](https://docs.microsoft.com/zh-cn/windows/wsl/install) |
+| Wed Jan 26      | Intro to Linux, scripting                 | slides [Lecture1](./slides/p1/lecture1.pdf)                  |
+| Fri Jan 28      | Shell scripting                           | slides [Lecture2](./slides/p1/lecture2.pdf)                  |
+| ...             | Mid-term break                            | read [A Byte of Python](https://python.swaroopch.com/)       |
+| Thu Feb 10      | Python scripting, plotting, data analysis |                                                              |
+| Sat Feb 12      | Debugging, performance analysis           |                                                              |
+| Mon Feb 14      | Virtualization, container, cloud service  |                                                              |
+| Wed Feb 16      | Build automation, project management      |                                                              |
+| Thu Feb 17      | Modern software stack overview            |                                                              |
 
