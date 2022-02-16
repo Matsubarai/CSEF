@@ -23,19 +23,22 @@ CSEF I:
 - McKinney, W. Python for Data Analysis, 2nd Edition. O'Reilly, 2017.
 - Lakos, J. Large-Scale C++ Software Design. Addison-Wesley Professional, 1996.
 - Scholl, B. etc. Cloud Native. O'Reilly, 2019.
+- 
 
 ## Schedule
 
-| Date            | Topic                                            | Content                                                                  |
-| --------------- | ------------------------------------------------ | ------------------------------------------------------------------------ |
-| Mon Jan 24      | Workshop Abstract                                | slides [Abstract](./slides/abstract.pdf)                                 |
-| **Winter 2022** | **CSEF I**                                       |                                                                          |
-| ...             | Prerequisite                                     | read [Install WSL](https://docs.microsoft.com/zh-cn/windows/wsl/install) |
-| Wed Jan 26      | Intro to Linux, scripting                        | slides [Lecture1](./slides/p1/lecture1.pdf)                              |
-| Fri Jan 28      | Shell scripting                                  | slides [Lecture2](./slides/p1/lecture2.pdf)                              |
-| ...             | Mid-term break                                   | read [A Byte of Python](https://python.swaroopch.com/)                   |
-| Thu Feb 10      | Python scripting, plotting, data analysis        |                                                                          |
-| Sat Feb 12      | Debugging, performance analysis                  |                                                                          |
-| Mon Feb 14      | Virtualization, container, cloud service         |                                                                          |
-| Wed Feb 16      | Build automation, modern software stack overview |                                                                          |
+| Date            | Topic                                         | Content                                                      |
+| --------------- | --------------------------------------------- | ------------------------------------------------------------ |
+| Mon Jan 24      | Workshop Abstract                             | slides [Abstract](./slides/abstract.pdf)                     |
+| **Winter 2022** | **CSEF I**                                    |                                                              |
+| ...             | Prerequisite                                  | read [Install WSL](https://docs.microsoft.com/zh-cn/windows/wsl/install) |
+| Wed Jan 26      | Intro to Linux, scripting                     | slides [Lecture1](./slides/p1/lecture1.pdf)                  |
+| Fri Jan 28      | Shell scripting                               | slides [Lecture2](./slides/p1/lecture2.pdf)                  |
+| ...             | Mid-term break                                | read [A Byte of Python](https://python.swaroopch.com/)       |
+| Thu Feb 10      | Python scripting, plotting, data analysis     | slides [Lecture3](./slides/p1/lecture3.pdf)                  |
+| Sat Feb 12      | Debugging, performance analysis               | slides [Lecture4](./slides/p1/lecture4.pdf)                  |
+| Mon Feb 14      | Virtualization, container, cloud service      | slides [Lecture5](./slides/p1/lecture5.pdf)                  |
+| ...             | ...                                           | read [Get Started - Docker Guide](https://docs.docker.com/get-started/) |
+| Wed Feb 16      | Build systems, modern software stack overview | slides [Lecture6](./slides/p1/lecture6.pdf)                  |
+| ...             | ...                                           | read [GitHub Actions Quickstart](https://docs.github.com/cn/actions/quickstart) |
 
