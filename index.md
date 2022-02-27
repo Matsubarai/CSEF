@@ -23,7 +23,13 @@ CSEF I:
 - McKinney, W. Python for Data Analysis, 2nd Edition. O'Reilly, 2017.
 - Lakos, J. Large-Scale C++ Software Design. Addison-Wesley Professional, 1996.
 - Scholl, B. etc. Cloud Native. O'Reilly, 2019.
-- 
+
+CSEF II:
+
+- Brookshear, J. G. etc. Computer Science: An Overview, 13th Edition. Pearson, 2019.
+- Forouzan, B. A. Foundations of Computer Science, 4th Edition. Cengage, 2018.
+- 陈云霁等，智能计算系统，机械工业出版社，2020
+- Bryant, R. E. Computer Systems: A Programmer’s Perspective, 3rd Edition. Pearson, 2016.
 
 ## Schedule
 
@@ -41,4 +47,4 @@ CSEF I:
 | ...             | ...                                           | read [Get Started - Docker Guide](https://docs.docker.com/get-started/) |
 | Wed Feb 16      | Build systems, modern software stack overview | slides [Lecture6](./slides/p1/lecture6.pdf)                  |
 | ...             | ...                                           | read [GitHub Actions Quickstart](https://docs.github.com/cn/actions/quickstart) |
-
+| **Spring 2022** | **CSEF II**                                   |                                                              |
