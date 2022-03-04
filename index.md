@@ -51,7 +51,10 @@ CSEF II:
 | ...             | ...                                           | read [Get Started - Docker Guide](https://docs.docker.com/get-started/) |
 | Wed Feb 16      | Build systems, modern software stack overview | slides [Lecture6](./slides/p1/lecture6.pdf)                  |
 | ...             | ...                                           | read [GitHub Actions Quickstart](https://docs.github.com/cn/actions/quickstart) |
-| **Spring 2022** | **CSEF II**                                   |                                                              |
+
+
+| **Spring 2022** | **CSEF II**                                                       |                                          |
+| --------------- | ----------------------------------------------------------------- | ---------------------------------------- |
 | Sat Mar 5       | Data Driven: From Card Programming to High-level Abstraction      |                                          |
 | Sat Mar 12      | Intelligentize Algorithm: A Path in The Fog                       |                                          |
 | Sat Mar 19      | **Invited Talk**: Computer Vision Frontier, Discussion I          | Lecturer: Tianjing Zhang                 |
