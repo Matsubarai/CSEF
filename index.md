@@ -52,7 +52,7 @@ CSEF II:
 | Wed Feb 16      | Build systems, modern software stack overview | slides [Lecture6](./slides/p1/lecture6.pdf)                  |
 | ...             | ...                                           | read [GitHub Actions Quickstart](https://docs.github.com/cn/actions/quickstart) |
 
-|                 |                                                                   |                                          |
+| Date            | Topic                                                             | Content                                  |
 | --------------- | ----------------------------------------------------------------- | ---------------------------------------- |
 | **Spring 2022** | **CSEF II**                                                       |                                          |
 | Sat Mar 5       | Data Driven: From Card Programming to High-level Abstraction      |                                          |
