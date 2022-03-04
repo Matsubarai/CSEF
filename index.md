@@ -8,6 +8,12 @@ This workshop contains 2 sections.
 
 - CSEF II: Important Issues of Modern Computing Systems (Spring 2022)
 
+## Lecture Coordinates (per timetable)
+
+- Sat 7:00-9:00 P.M.
+
+- Room C226, Pinxue Building
+
 ## Contact Info
 
 #### Instructor: Qianyu Cheng
