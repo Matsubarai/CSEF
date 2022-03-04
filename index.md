@@ -56,11 +56,11 @@ CSEF II:
 | Sat Mar 12      | Intelligentize Algorithm: A Path in The Fog                       |                                          |
 | Sat Mar 19      | **Invited Talk**: Computer Vision Frontier, Discussion I          | Lecturer: Tianjing Zhang                 |
 | Sat Mar 26      | Machine Architecture: Design Tradeoff to Extreme Performance I    |                                          |
-| Sat Mar 5       | Machine Architecture: Design Tradeoff to Extreme Performance II   |                                          |
-| Sat Mar 5       | **Invited Talk**: Heterogeneous Computing Frontier, Discussion II | Lecturer: Qianyu Cheng                   |
-| Sat Apr 2       | System Software: User/Data/Computing Oriented Customization I     |                                          |
-| Sat Apr 9       | System Software: User/Data/Computing Oriented Customization II    |                                          |
-| Sat Apr 16      | **Invited Talk**: Security Frontier                               | Lecturer: Pengzhi Xing                   |
-| Sat Apr 23      | Endless Frontier: Find Ideas in The Real World                    |                                          |
+| Sat Apr 2       | Machine Architecture: Design Tradeoff to Extreme Performance II   |                                          |
+| Sat Apr 9       | **Invited Talk**: Heterogeneous Computing Frontier, Discussion II | Lecturer: Qianyu Cheng                   |
+| Sat Apr 16      | System Software: User/Data/Computing Oriented Customization I     |                                          |
+| Sat Apr 23      | System Software: User/Data/Computing Oriented Customization II    |                                          |
+| Sat Apr 30      | **Invited Talk**: Security Frontier                               | Lecturer: Pengzhi Xing                   |
+| Sat May 7       | Endless Frontier: Find Ideas in The Real World                    |                                          |
 
 
