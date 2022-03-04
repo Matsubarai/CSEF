@@ -10,9 +10,13 @@ This workshop contains 2 sections.
 
 ## Contact Info
 
-Instructor: Qianyu Cheng
+#### Instructor: Qianyu Cheng
 
 Email: qianyu.cheng.chn@gmail.com
+
+#### TA: Rui Wang
+
+Email: wangrui604@foxmail.com
 
 ## Reference
 
@@ -48,15 +52,15 @@ CSEF II:
 | Wed Feb 16      | Build systems, modern software stack overview | slides [Lecture6](./slides/p1/lecture6.pdf)                  |
 | ...             | ...                                           | read [GitHub Actions Quickstart](https://docs.github.com/cn/actions/quickstart) |
 | **Spring 2022** | **CSEF II**                                   |                                                              |
-| Sat Mar 5       | Data Driven: From Card Programming to High-level Abstraction    |                                            |
-| Sat Mar 12      | Intelligentize Algorithm: A Path in The Fog                     |                                            |
-| Sat Mar 19      | Invited Talk: Computer Vision Frontier, Discussion I            | Lecturer: Tianjing Zhang                   |
-| Sat Mar 26      | Machine Architecture: Design Tradeoff to Extreme Performance I  |                                            |
-| Sat Mar 5       | Machine Architecture: Design Tradeoff to Extreme Performance II |                                            |
-| Sat Mar 5       | Invited Talk: Heterogeneous Computing Frontier, Discussion II   | Lecturer: Qianyu Cheng                     |
-| Sat Apr 2       | System Software: User/Data/Computing Oriented Customization I   |                                            |
-| Sat Apr 9       | System Software: User/Data/Computing Oriented Customization II  |                                            |
-| Sat Apr 16      | Invited Talk: Security Frontier                                 | Lecturer: Pengzhi Xing                     |
-| Sat Apr 23      | Endless Frontier: Find Ideas in The Real World                  |                                            |
+| Sat Mar 5       | Data Driven: From Card Programming to High-level Abstraction      |                                          |
+| Sat Mar 12      | Intelligentize Algorithm: A Path in The Fog                       |                                          |
+| Sat Mar 19      | **Invited Talk**: Computer Vision Frontier, Discussion I          | Lecturer: Tianjing Zhang                 |
+| Sat Mar 26      | Machine Architecture: Design Tradeoff to Extreme Performance I    |                                          |
+| Sat Mar 5       | Machine Architecture: Design Tradeoff to Extreme Performance II   |                                          |
+| Sat Mar 5       | **Invited Talk**: Heterogeneous Computing Frontier, Discussion II | Lecturer: Qianyu Cheng                   |
+| Sat Apr 2       | System Software: User/Data/Computing Oriented Customization I     |                                          |
+| Sat Apr 9       | System Software: User/Data/Computing Oriented Customization II    |                                          |
+| Sat Apr 16      | **Invited Talk**: Security Frontier                               | Lecturer: Pengzhi Xing                   |
+| Sat Apr 23      | Endless Frontier: Find Ideas in The Real World                    |                                          |
 
 
